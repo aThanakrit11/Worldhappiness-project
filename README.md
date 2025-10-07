@@ -12,6 +12,8 @@ world-happiness-report-analysis/
 │   └── Worldpic.png
 │   
 ├── requirements.txt
+├── LICENSE
+├── .gitignore
 └── README.md
 
 ## 📊 Dashboard Preview
@@ -27,9 +29,7 @@ world-happiness-report-analysis/
 2. Increase social support: should focus on building stronger community and healthcare systems.
 3. Enhance personal freedom: Encourage policies that increase freedom for citizens to make life choices, which is a significant factor in happiness scores.
 
-## ⚠️ Notes
 
-- Sensitive data removed.
 
 
 
